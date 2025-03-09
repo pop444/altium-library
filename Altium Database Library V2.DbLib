@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=master;Data Source=WIN-60UMK3B9EKE\TEW_SQLEXPRESS
+ConnectionString=Provider=SQLOLEDB.1;Persist Security Info=False;User ID=pop444;Initial Catalog=master;Data Source=WIN-60UMK3B9EKE\TEW_SQLEXPRESS
 AddMode=3
 RemoveMode=1
 UpdateMode=2
